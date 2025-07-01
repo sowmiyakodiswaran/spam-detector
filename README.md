@@ -13,16 +13,25 @@ This project is a machine learning-based spam detection system that classifies S
 - Organized file structure with modular code
 ## Folder Structure
 spam-detector/
+
 ├── app.py 
 
 ├── model/
+
 │ ├── save_model.py 
-│ ├── spam_model.pkl 
+
+│ ├── spam_model.pkl
+
 │ ├── vectorizer.pkl 
+
 │ └── spam_cleaned.csv 
+
 ├── raw/
+
 │ └── spam.csv 
+
 ├── requirements.txt 
+
 └── README.md 
 
 ## How It Works
