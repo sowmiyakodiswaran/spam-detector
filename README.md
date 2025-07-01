@@ -14,6 +14,7 @@ This project is a machine learning-based spam detection system that classifies S
 ## Folder Structure
 spam-detector/
 ├── app.py 
+
 ├── model/
 │ ├── save_model.py 
 │ ├── spam_model.pkl 
